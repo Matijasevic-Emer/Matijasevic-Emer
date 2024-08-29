@@ -1,6 +1,7 @@
 # 🚀 Emerson Matijasevic - Full Stack Developer
 
 Bienvenido a mi perfil, donde combino mi pasión por la tecnología con mi experiencia en desarrollo de software. Aquí encontrarás proyectos, tecnologías y habilidades que definen mi carrera.
+
 ![perfil3](https://github.com/user-attachments/assets/99623f82-04d4-4309-a0ae-435774c868ce)
 
 

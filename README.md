@@ -29,9 +29,28 @@ Soy un desarrollador entusiasta con una sólida experiencia en motores SQL, Gene
 - **Programación con Java** - Coderhouse (2024)
 - **Analista Senior Genexus 15** - Toolnology (2018)
 
-## 📺 Tutoriales y Recursos
-- **YouTube**: Aprendé a usar Railway para bases de datos sin complicaciones → [Tutorial Rápido](https://www.youtube.com/watch?v=3z_H-jrc)
+## 📺 Despliegues más Relevantes
 
----
+- **🚀 JAVA ApiRest Facturación**  
+  Una API Rest con Java Spring Boot para un backend de ecommerce genérico, que incluye funcionalidades de gestión de Clientes, Ventas, Productos, entre otras entidades relevantes.  
+  [Java + Spring + Spring Boot + Maven]  
+  📄 [Documentación de la API](https://api-facturacion-production.up.railway.app/swagger-ui/index.html#)
+
+- **📊 Trello App**  
+  Una aplicación estilo Trello/Jira para la gestión de proyectos, desarrollada como trabajo final de un curso Fullstack en CILSA.  
+  [JavaScript + React + Material UI + Vite]  
+  [Node.js + Express + MySql + Netlify]  
+  🌐 [Demo en Netlify](https://task-ban.netlify.app/)
+
+- **🛍️ React eCommerce**  
+  Mis primeras prácticas con React.js, desarrollando un ecommerce para lotes de terrenos en un barrio residencial. El proyecto incluye un catálogo con carrusel de imágenes, un mapa y una sección para comparar terrenos.  
+  [React.js + Vite + Material UI]  
+  [Node.js + Netlify]  
+  🌍 [Demo en Netlify](https://terrenosargentinos.netlify.app/)
+
+- **🖥️ Js & Bootstrap eCommerce**  
+  Proyecto grupal de un ecommerce de artículos de PC y gaming, enfocado en el frontend. Desarrollado como parte de un curso Fullstack Developer.  
+  🎮 [Demo en Netlify](https://tp-grupo5-cilsa.netlify.app/)
+
 
 ¡Seguime en mi viaje por el desarrollo de software y conectá conmigo para nuevas oportunidades!
